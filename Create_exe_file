@@ -1,0 +1,4 @@
+Goto command prompt/terminal:
+Type following command:
+cd <path of python file>
+pyinstaller --onefile <filename>.py
